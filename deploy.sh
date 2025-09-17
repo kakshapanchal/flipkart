@@ -11,3 +11,5 @@ This is deploy.sh file
 updating some deployment script...
 
 this line is developted by KSP
+
+this line is added dated 17 sept
